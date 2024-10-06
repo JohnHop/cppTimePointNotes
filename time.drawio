@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="aPp2NtmsPw9UPdzIGrgB">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;startSize=6;endSize=10;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-1" target="YE5eE9NsUNOo0Bk1QpCt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-1" value="std::time_t" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=ubuntu mono;" vertex="1" parent="1">
+          <mxGeometry x="344" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startSize=6;endSize=10;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-2" target="YE5eE9NsUNOo0Bk1QpCt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-2" target="YE5eE9NsUNOo0Bk1QpCt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-28" value="see note 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=ubuntu mono;labelBackgroundColor=none;fontStyle=2" vertex="1" connectable="0" parent="YE5eE9NsUNOo0Bk1QpCt-27">
+          <mxGeometry x="0.1035" y="2" relative="1" as="geometry">
+            <mxPoint x="19" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-2" value="std::timespec" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=ubuntu mono;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-3" target="YE5eE9NsUNOo0Bk1QpCt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-26" value="see note 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=ubuntu mono;labelBackgroundColor=none;fontStyle=2" vertex="1" connectable="0" parent="YE5eE9NsUNOo0Bk1QpCt-25">
+          <mxGeometry x="-0.0965" y="-2" relative="1" as="geometry">
+            <mxPoint x="17" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;startSize=10;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-1" target="YE5eE9NsUNOo0Bk1QpCt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;endSize=10;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-3" target="YE5eE9NsUNOo0Bk1QpCt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-3" value="std::chrono::&lt;div&gt;system_clock::&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;time_point&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;fontFamily=ubuntu mono;verticalAlign=middle;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-5" target="YE5eE9NsUNOo0Bk1QpCt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-5" value="std::chrono::&lt;div&gt;system_clock::&lt;br&gt;&lt;b&gt;now()&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=ubuntu mono;fontStyle=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="35" y="5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-6" target="YE5eE9NsUNOo0Bk1QpCt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-6" value="std::timespec_get()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=ubuntu mono;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="635" y="25" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;endArrow=open;endFill=0;" edge="1" parent="1" source="YE5eE9NsUNOo0Bk1QpCt-7" target="YE5eE9NsUNOo0Bk1QpCt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-7" value="std::time()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=ubuntu mono;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="354" y="579" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-11" value="&lt;b&gt;std::timespec{ &lt;/b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;t&lt;/i&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-weight: bold; background-color: initial; font-size: 14px;&quot;&gt;}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=ubuntu mono;fontSize=14;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="563" y="381" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-15" value="&lt;b&gt;std::time_t{ &lt;/b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;ts.tv_sec&lt;/i&gt;&lt;b&gt; }&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=ubuntu mono;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="437" y="217" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-17" value="std::chrono::system_clock::&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;to_time_t( &lt;/b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;tp&lt;/i&gt;&lt;b&gt; )&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=ubuntu mono;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="187" y="250" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-21" value="std::chrono::system_clock::&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;from_time_t( &lt;/b&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;time&lt;/i&gt;&lt;b&gt; )&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=ubuntu mono;rotation=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-29" value="C++11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontFamily=ubuntu mono;" vertex="1" parent="1">
+          <mxGeometry x="129" y="104" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-30" value="C++17" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;fontFamily=ubuntu mono;" vertex="1" parent="1">
+          <mxGeometry x="748" y="104" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-32" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;// note 1&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;std::timespec ts {&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; std::chrono::to_time_t( &lt;i&gt;tp&lt;/i&gt; ),&amp;nbsp; &lt;font color=&quot;#4d4d4d&quot;&gt;// &lt;i style=&quot;&quot;&gt;.tv_sec&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; std::chrono::duration_cast&amp;lt;std::chrono::nanoseconds&amp;gt;(&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;i&gt;tp&lt;/i&gt; - std::chrono::time_point_cast&amp;lt;std::chrono::seconds&amp;gt;( &lt;i&gt;tp&lt;/i&gt; )&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ).count()&amp;nbsp; &lt;font color=&quot;#4d4d4d&quot;&gt;//&lt;i&gt; .tv_nsec&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;};&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;fontFamily=ubuntu mono;spacingLeft=10;spacingRight=10;verticalAlign=top;spacingBottom=10;spacing=10;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="720" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-33" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;// note 2&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;std::chrono::system_clock::time_point tp {&lt;div&gt;&amp;nbsp; std::chrono::seconds{ &lt;i&gt;ts.tv_sec&lt;/i&gt; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; + std::chrono::nanoseconds{ &lt;i&gt;ts.tv_nsec&lt;/i&gt; }&lt;br&gt;&lt;div&gt;};&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;fontFamily=ubuntu mono;spacingLeft=10;spacingRight=10;verticalAlign=top;spacingBottom=10;spacing=10;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="897" width="720" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-36" value="&quot;seconds since Epoch&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="413" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-38" value="&quot;seconds since Epoch&lt;div&gt;+&lt;/div&gt;&lt;div&gt;nanoseconds&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="583" y="45" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YE5eE9NsUNOo0Bk1QpCt-40" value="&quot;a point in the time...&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="130" y="55" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
